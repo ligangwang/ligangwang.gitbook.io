@@ -1,1 +1,2 @@
-notes and books
+Notes taken in reading book TAOCP
+
