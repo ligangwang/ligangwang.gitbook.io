@@ -1,6 +1,6 @@
 # Summary
 
-* [Bookmark](README.md)
-* [Introduction](SUMMARY.md)
-* [Chapter One. Basic Concepts](chapter_one_basic_concepts.md)
+* [Introduction](README.md)
+* [Chapter One. Basic Concepts](chapter-one-basic-concepts.md)
+* [Useful Links](useful-links.md)
 
